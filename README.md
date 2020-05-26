@@ -1,2 +1,1 @@
-# rustyhacker
 A test webpage
